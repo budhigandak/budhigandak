@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Aniket Kumar(@budhigandak)
-- 👀 I’m interested in java and data structure,python,c++,c, full stack and machine learning.
+- 👀 I’m interested in java, data structure and fullstack.
 - 🌱 I’m currently learning machinelearning and full stack
 - 📫 you can reach me through  
         - budhigandak@gmail.com
